@@ -61,4 +61,3 @@ Ahora, debe implementar los siguientes requisitos en su programa:
 
 Cree una clase de prueba/ejecutor (quien contiene el método main()), quien prueba la funcionalidad de este escenario, mostrando un reporte completo del registro del estudiante para un ciclo. 
 
-Se requiere administrar hospitales del país. Por cada entidad hospitalaria se necesita algunos atributos tales como: nombre del 
