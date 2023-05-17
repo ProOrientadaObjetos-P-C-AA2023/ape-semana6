@@ -40,20 +40,22 @@ Total de sueldos a pagar por mes: 13600
 
 #### Problemática 2
 
-Sistema de Calificaciones de Estudiantes 
+Sistema de Calificaciones de Estudiantes de un ciclo
 
-Desarrolla un programa para gestionar las calificaciones de los estudiantes en una materia. El programa debe tener dos clases principales: "Estudiante" y "Materia".
+Desarrolla un programa para gestionar las calificaciones de los estudiantes de las materia de determinado ciclo. El programa debe tener dos clases principales: "Estudiante" y "Materia".
 
-Del Estudiante se registra su: nombre, edad y la materia a cruzar.
+Del Estudiante se registra su: nombre, edad y las materias a cruzar.
 
 Esta clase debe verificar la aprobación dadas tres calificaciones de una materia: ACD (3.5/10), APE (3.5/10) y AA (3/10). Se aprueba si la sumatoria es de al menos 70%, si cumple con este requisito, se considera que ha aprobado, caso contrario informar al estudiante que deberá rendir un examen de recuperación sobre 3.5/10 pts. agregado al 60% acumulado de los componentes ACD, APE y AA.
 
 Ahora, debe implementar los siguientes requisitos en su programa:
 
-El programa debe permitir al usuario ingresar los datos de un estudiante, incluyendo su nombre y edad.
-El programa debe permitir al usuario ingresar los datos de una materia, incluyendo su nombre y las calificaciones del estudiante en las categorías ACD, APE y AA.
-El programa debe permitir al usuario vincular una materia a un estudiante, es decir, agregar la materia al estudiante.
-El programa debe verificar si un estudiante ha aprobado una materia específica. Para ello, se deben evaluar las calificaciones del estudiante en las tres categorías (ACD, APE y AA).
-Cree una clase de prueba/ejecutor (quien contiene el método main()), quien prueba la funcionalidad de este escenario.
+- El programa debe permitir al usuario ingresar los datos de un estudiante, incluyendo su nombre y edad.
+- El programa debe permitir al usuario ingresar los datos de una materia, incluyendo su nombre y las calificaciones del estudiante en las categorías ACD, APE y AA.
+- El programa debe permitir al usuario vincular una materia a un estudiante, es decir, agregar la materia al estudiante.
+- El programa debe verificar si un estudiante ha aprobado una materia específica. Para ello, se deben evaluar las calificaciones del estudiante en las tres categorías (ACD, APE y AA).
+- En el caso de retrobar una materia (con o sin supletorio), el estudiante tendrá la opción de rendir un examen de convalidación al final del ciclo académico y aprobarla. Si este es el caso, de igual forma se debe registrar la nota del examen de convalidación. 
+
+Cree una clase de prueba/ejecutor (quien contiene el método main()), quien prueba la funcionalidad de este escenario, mostrando un reporte completo del registro del estudiante para un ciclo. 
 
 Se requiere administrar hospitales del país. Por cada entidad hospitalaria se necesita algunos atributos tales como: nombre del 
