@@ -1,8 +1,9 @@
 # Taller 6 (Laboratorio): 
 ### Elaboración de ejercicios de Estructuras de datos en Programación Orientada a Objetos: Estructuras estáticas.
 
+---
 #### Problemática 1
-
+---
 Se requiere administrar hospitales del país. Por cada entidad hospitalaria se necesita algunos atributos tales como: nombre del hospital, ciudad del hospital, número de especialidades, conjunto de médicos, conjunto de enfermeros o enfermeras, total de sueldos a cancelar por mes del personal del hospital, dirección del hospital.
 
 Considerandos:
@@ -38,8 +39,9 @@ Total de sueldos a pagar por mes: 13600
 
 Se debe generar la solución en lenguaje de programación Java
 
-
+---
 #### Problemática 2
+---
 
 Sistema de Calificaciones de Estudiantes de un ciclo
 
