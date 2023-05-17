@@ -36,7 +36,8 @@ Listado de enfermeros(as)
 Total de sueldos a pagar por mes: 13600
 ```
 
-* Se debe generar la solución en lenguaje de programación Java
+Se debe generar la solución en lenguaje de programación Java
+
 
 #### Problemática 2
 
